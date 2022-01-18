@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "353575957176",
+    "project_id": "player-f018e",
+    "storage_bucket": "player-f018e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353575957176:android:0a49237ea703e6375efa4d",
+        "android_client_info": {
+          "package_name": "com.inovtribe.player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353575957176-r6oa4m8usp5ja64pnjohku8p05gascb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbGF6XfFJEfOwsm2t3YoBwybNcy-093Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353575957176-r6oa4m8usp5ja64pnjohku8p05gascb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
